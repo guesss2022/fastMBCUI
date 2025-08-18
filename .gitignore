@@ -1,0 +1,13 @@
+*~
+build/
+result/
+.git.bkp*/
+doc/
+.DS_Store
+*.bin
+backup/
+dat/
+.vscode/
+*.ini
+__pycache__
+output/
