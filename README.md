@@ -66,6 +66,21 @@ The setup script will install these automatically on Ubuntu:
 
 Simulation results are saved to `./output/` with trajectory data and 3D mesh sequences for visualization.
 
+## Citation
+
+```latex
+@inproceedings{10.2312:pg.20251268,
+    booktitle = {Pacific Graphics Conference Papers, Posters, and Demos},
+    editor = {Christie, Marc and Han, Ping-Hsuan and Lin, Shih-Syun and Pietroni, Nico and Schneider, Teseo and Tsai, Hsin-Ruey and Wang, Yu-Shuen and Zhang, Eugene},
+    title = {{Fast Multi-Body Coupling for Underwater Interactions}},
+    author = {Gao, Tianhong and Chen, Xuwen and Li, Xingqiao and Li, Wei and Chen, Baoquan and Pan, Zherong and Wu, Kui and Chu, Mengyu},
+    year = {2025},
+    publisher = {The Eurographics Association},
+    ISBN = {978-3-03868-295-0},
+    DOI = {10.2312/pg.20251268}
+}
+```
+
 ## References
 
 [1] Chen, J., Schäfer, F. T., & Desbrun, M. (2024). Lightning-fast method of fundamental solutions. ACM Transactions on Graphics, 43(4), 77.
