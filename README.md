@@ -1,6 +1,6 @@
 # Fast Multi-Body Coupling for Underwater Interactions
 
-A fast physical simulation framework for underwater rigid body interactions using preconditioned Method of Fundamental Solutions (MFS) [1].
+This repository contains the example code for the paper Fast Multi-Body Coupling for Underwater Interactions in PG 2025. A fast physical simulation framework for underwater rigid body interactions using preconditioned Method of Fundamental Solutions (MFS) inspired by [1].
 
 ## Requirements
 
