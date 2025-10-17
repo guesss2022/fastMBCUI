@@ -13,6 +13,9 @@ Tianhong Gao，
 
 [![我的项目演示视频](figure/teaser.jpg)](https://youtu.be/REQUUZX_NrQ?si=CdzLA3kteonSXQ7N)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/REQUUZX_NrQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This repository contains the example code for the paper Fast Multi-Body Coupling for Underwater Interactions in PG 2025. A fast physical simulation framework for underwater rigid body interactions using preconditioned Method of Fundamental Solutions (MFS) inspired by [1].
 
 ## Requirements
